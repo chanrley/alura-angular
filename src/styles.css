@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+.button-square {
+    height: 70px;
+    width: 70px;
+    margin: 1px;
+    margin-right: 10px;
+    color: white;
+    margin-left: 40px;
+
+}
+
+.black{
+    background-color: #000000;
+}
+
+.red{
+    background-color: #FF0000;
+}
+
+.green{
+    background-color: #008000;
+}
+
+.blue{
+    background-color: #0000FF;
+}
+
+.yellow{
+    background-color: #ffff00;
+
+}
